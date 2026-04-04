@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chamikara-Siriwardane
 - 🚀 I am also coding at [**@Chamikara-Siriwardane-hub**](https://github.com/Chamikara-Siriwardane-hub)
 - 🎓 I’m final year student at Electronics and Telecommunication Engineerning Department,University of Moratuwa. 
-- 💻 I’m interseted in Comptuer Vision, Data Science and Machine Learning.
+- 💻 I’m interseted in Comptuer Vision, Data Science, Machine Learning and Software Engineering.
 - 💞️ I’m looking to collaborate on any project related to my field of interest.
 - 📫 You can reach me via siriwardanec.21@uom.lk or chamikara.siriwardane@gmail.com or csiriwardana11@gmail.com
 
